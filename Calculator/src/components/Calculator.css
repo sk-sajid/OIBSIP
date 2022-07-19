@@ -1,0 +1,6 @@
+.calculator {
+  height: 85vh;
+  width: 90%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
